@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Analytics } from '@vercel/analytics/react';
 import {
   BrowserRouter as Router, Route, Link, Routes
 } from "react-router-dom";
@@ -26,6 +27,7 @@ function App() {
         <Route path='ScientificResearch' element={<Research/>}/>
     </Routes>
   </Router> 
+  <Analytics />
     </div>
   );
 }
