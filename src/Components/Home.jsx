@@ -1,13 +1,13 @@
 import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
-import introimg from 'D:/NMy portofolio/mpf/src/Images/WhatsApp Image 2021-04-03 at 4.30.47 PM.jpeg'
-import sumimg from 'D:/NMy portofolio/mpf/src/Images/IMG_20220729_014025_795.jpg'
-import thinking from 'D:/NMy portofolio/mpf/src/Images/pngwing.com (7).png'
-import project from 'D:/NMy portofolio/mpf/src/Images/WhatsApp Image 2023-08-25 at 4.03.33 AM.jpeg'
-import educ from 'D:/NMy portofolio/mpf/src/Images/WhatsApp Image 2023-08-25 at 4.06.07 AM.jpeg'
-import skill from 'D:/NMy portofolio/mpf/src/Images/WhatsApp Image 2023-08-25 at 4.06.07 AM (1).jpeg'
-import cont from 'D:/NMy portofolio/mpf/src/Images/WhatsApp Image 2023-08-28 at 4.07.07 AM.jpeg'
-import cv from 'D:/NMy portofolio/mpf/src/Images/cv.png'
+import introimg from 'D:/NMy portofolio/mpf/src/Images/HEAG.jpeg'
+import sumimg from 'D:/NMy portofolio/mpf/src/Images/HM.jpg'
+import thinking from 'D:/NMy portofolio/mpf/src/Images/TH.png'
+import project from 'D:/NMy portofolio/mpf/src/Images/HPR.jpeg'
+import educ from 'D:/NMy portofolio/mpf/src/Images/HCM.jpeg'
+import skill from 'D:/NMy portofolio/mpf/src/Images/HCO.jpeg'
+import cont from 'D:/NMy portofolio/mpf/src/Images/HSK.jpeg'
+import cv from 'D:/NMy portofolio/mpf/src/Images/CV.png'
 import Lfcmp from './Lfcmp';
 export default function Home() {
     
